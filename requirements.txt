@@ -1,7 +1,7 @@
 streamlit==1.49.1
 numpy
 matplotlib==3.10.6
-opencv-python==4.11.0.46
+
 pandas==2.3.2
 torch==2.6.0
 altair==5.5.0
@@ -39,5 +39,5 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
-opencv-python-headless==4.12.0.88
+opencv-python-headless
 

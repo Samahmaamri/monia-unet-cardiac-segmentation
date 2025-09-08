@@ -1,7 +1,6 @@
 streamlit==1.49.1
 numpy
 matplotlib==3.10.6
-
 pandas==2.3.2
 torch==2.6.0
 altair==5.5.0
@@ -40,4 +39,5 @@ tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
 opencv-python-headless
+monai==1.2.0
 
